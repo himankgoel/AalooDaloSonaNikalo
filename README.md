@@ -2,13 +2,13 @@
 
 This repository is for testing a wrong solution with a correct brute force solution. Any wrong solution (in competitve programming) failing on corner cases which many times cannot be found.Using this can be found given your brute force solution in correct.
 
-#Installation
+# Installation
 
 - You will need to have Ubuntu terminal installed for Windows or Mac
 - Install mingw for compiling C++ code.
 - Clone this repo in your local system.
 
-#Usage
+# Usage
 
 - This script is primarily for C++ users, but can be extended to other languages as well.
 - Put your incorrect solution in solution.cpp and brute force or correct solution in brute.cpp
