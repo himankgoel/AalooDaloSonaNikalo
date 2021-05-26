@@ -20,8 +20,8 @@ $- bash command.sh 10
 ```
 
 Here 10 is no of test cases.
-This will initiate the stress testing by comparing your input from brute.cpp and solution.cpp
-#Example
+This will initiate the stress testing by comparing your input from brute.cpp and solution.cpp  
+# Example
 [Checkout this codeforces problem.](https://codeforces.com/contest/1529/problem/B)
 
 - Brute force solution contains code by generating every subsequence of array and output the max array size possible.
