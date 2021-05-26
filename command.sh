@@ -21,7 +21,7 @@ if [ $# -eq 2 ]
     then
         max_tests=10 # default number of test cases | change it accordingly
     else
-        max_tests=$3
+        max_tests=$1
 fi
 
 diff_found=0

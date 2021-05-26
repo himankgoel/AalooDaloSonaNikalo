@@ -99,7 +99,7 @@ void generate_test() {
   int n = rand(1, 10);
   cout << n << "\n";
   vector<int> arr = gen_array(n, -1e9, 1e9);
-  for (auto x : arr) cout << x << " ";
+  cout<<arr;
 }
 
 signed main() {
